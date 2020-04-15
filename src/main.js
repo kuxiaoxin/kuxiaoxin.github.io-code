@@ -6,6 +6,7 @@ import 'bootstrap/dist/css/bootstrap.min.css'
 import 'bootstrap/dist/js/bootstrap.min.js'
 import 'animate.css'
 import 'wowjs/css/libs/animate.css'
+import './assets/css/tencent.css'
 
 Vue.config.productionTip = false
 
